@@ -1,2 +1,4 @@
-# Ola mundo
- Repositório versionado
+# Olá, mundo!
+ Repositório versionado para testes de git.
+
+ Testando alteração.
